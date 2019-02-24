@@ -2,6 +2,10 @@
 
 Showcase of 3 approaches to mocking Mongo ObjectId
 
+Here's the report according to 3 tests:
+
+![Report of passing/failing tests per approach](img/report.png)
+
 ## Identity mocking
 
 `const identityObjectId = data => data;` (see [./src/identity-object-id.test.js](./src/identity-object-id.test.js))
