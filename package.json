@@ -5,7 +5,7 @@
 		"format": "prettier --write ./src/*.js"
 	},
 	"devDependencies": {
-		"ava": "^1.2.1",
+		"ava": "^3.7.1",
 		"prettier": "^1.16.4"
 	}
 }
